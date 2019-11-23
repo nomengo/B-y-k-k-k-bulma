@@ -1,0 +1,11 @@
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\obj\Debug\netcoreapp3.0\ConsoleApp2.876.csprojAssemblyReference.cache
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\obj\Debug\netcoreapp3.0\ConsoleApp2.876.AssemblyInfoInputs.cache
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\obj\Debug\netcoreapp3.0\ConsoleApp2.876.AssemblyInfo.cs
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\bin\Debug\netcoreapp3.0\ConsoleApp2.876.exe
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\bin\Debug\netcoreapp3.0\ConsoleApp2.876.deps.json
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\bin\Debug\netcoreapp3.0\ConsoleApp2.876.runtimeconfig.json
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\bin\Debug\netcoreapp3.0\ConsoleApp2.876.runtimeconfig.dev.json
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\bin\Debug\netcoreapp3.0\ConsoleApp2.876.dll
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\bin\Debug\netcoreapp3.0\ConsoleApp2.876.pdb
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\obj\Debug\netcoreapp3.0\ConsoleApp2.876.dll
+C:\Users\nomen\source\repos\ConsoleApp2.876\ConsoleApp2.876\obj\Debug\netcoreapp3.0\ConsoleApp2.876.pdb
